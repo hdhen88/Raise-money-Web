@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13541ca1-8638-483a-927e-a0259e6b5e8e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding02-admin-webui/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding04-admin-entity/target/" />
+    <ignored path="$PROJECT_DIR$/atcrowdfunding03-admin-component/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding05commonutils/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding06commonreverses/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding15-member-payServer-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding17-member-api/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding11-member-redisserver-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding08-member-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/target/" />
+    <ignored path="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding14-member-order-consumer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-crowd.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/CrowdAuthMainType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/CrowdProjectMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/config/OSSProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/config/CrowdWebMvcConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/templates/project-agree.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="346" column="66" lean-forward="true" selection-start-line="346" selection-start-column="66" selection-end-line="346" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#21113#21117#0" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/portal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="205" column="65" selection-start-line="205" selection-start-column="65" selection-end-line="205" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getMemberPOByLoginAcctRemote</find>
+      <find>getMemberPOByLoginAcct</find>
+      <find>authmain</find>
+      <find>http://ccctop-crowd-mysql/get/portal/type/project/data/remote</find>
+      <find>getPortalTypeProjectDataRemote</find>
+      <find>Hystrix</find>
+      <find>get/portal/type/project/data/remote</find>
+      <find>MemberPOMapper</find>
+      <find>81</find>
+      <find>auth/member/to/login/page</find>
+      <find>/auth/member/to/center/page</find>
+      <find>fileinput</find>
+      <find>bucketName</find>
+      <find>我的众筹</find>
+      <find>未实名</find>
+      <find>loginMember</find>
+      <find>session</find>
+      <find>selectByExample</find>
+      <find>发起</find>
+      <find>crowd-</find>
+      <find>crowd-portal</find>
+      <find>ccctop-crowd-auth</find>
+      <find>ccctop-crowd-project</find>
+      <find>CrowdWebMvcConfig</find>
+      <find>发起众筹</find>
+      <find>project/agree/protocol/page</find>
+      <find>agree/protocol/page</find>
+      <find>阅读</find>
+      <find>http://localhost:81</find>
+      <find>launchCrowdBtn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>http://localhost:80</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../atcrowdfunding05commonutils/pom.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding11-member-redisserver-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding06commonreverses/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding02-admin-webui/src/main/resources/jdbc.properties" />
+        <option value="L:/IdeaProjects/atcrowdfunding007-member-parent/atcrowdfunding18-member-entity/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/test/java/com/ccctop/cloud/MybatisTest.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding17-member-api/src/main/java/com/ccctop/crowd/api/MySQLRemoteService.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/handler/ProjectConsumerHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding14-member-order-consumer/src/main/java/com/ccctop/crowd/handler/OrderHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/handler/MemberHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/config/CrowdWebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-center.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis-generator.xml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/handler/ProjectProviderHandler.java" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-login.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-crowd.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/templates/project-agree.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/portal.html" />
+        <option value="$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/templates/project-show-detail.html" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\developer_tools\repository" />
+        <option name="mavenHome" value="D:/developer_tools/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\developer_tools\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding08-member-eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding10-member-mysql-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding10-member-mysql-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="atcrowdfunding10-member-mysql-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="74" />
+    <option name="y" value="59" />
+    <option name="width" value="1915" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding10-member-mysql-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding12-member-authenticationserver-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding13-member-projectServer-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding14-member-order-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding16-member-zuulserver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcrowdfunding01-admin-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcrowdfunding07memberparent" type="462c0819:PsiDirectoryNode" />
+              <item name="atcrowdfunding17-member-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ccctop" type="462c0819:PsiDirectoryNode" />
+              <item name="crowd" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620905561400" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../atcrowdfunding07memberparent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40161103" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FundingOnline-master\atcrowdfunding07memberparent\atcrowdfunding13-member-projectServer-consumer\src\main\resources" />
+      <recent name="D:\FundingOnline-master\atcrowdfunding07memberparent\atcrowdfunding13-member-projectServer-consumer\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FundingOnline-master\atcrowdfunding07memberparent\atcrowdfunding10-member-mysql-provider\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CrowdProjectMain">
+    <configuration name="CrowdAuthMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding12-member-authenticationserver-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.crowd.CrowdAuthMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdEurekaMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding08-member-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.cloud.CrowdEurekaMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdMysqlProviderMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding10-member-mysql-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.cloud.CrowdMysqlProviderMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdOrderMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding14-member-order-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.crowd.CrowdOrderMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdPayMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding15-member-payServer-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.crowd.CrowdPayMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdProjectMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding13-member-projectServer-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.crowd.CrowdProjectMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdRedisMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding11-member-redisserver-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.cloud.CrowdRedisMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdZuulMainType" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="atcrowdfunding16-member-zuulserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ccctop.cloud.CrowdZuulMainType" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13541ca1-8638-483a-927e-a0259e6b5e8e" name="Default Changelist" comment="" />
+      <created>1620886230624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620886230624</updated>
+      <workItem from="1620886231752" duration="13119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13119000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" weight="0.25135428" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.33261105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.15778251" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/mapper/MenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/service/api/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/service/impl/ProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#3741#3742#0" expanded="true" />
+            <element signature="e#3804#3805#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/test/java/com/ccctop/cloud/MybatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/CrowdMysqlProviderMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.20.RELEASE/spring-tx-4.3.20.RELEASE.jar!/org/springframework/transaction/annotation/ProxyTransactionManagementConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/service/api/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE.jar!/org/springframework/boot/autoconfigure/availability/ApplicationAvailabilityAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#597#598#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/handler/PortalHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding17-member-api/src/main/java/com/ccctop/crowd/api/MySQLRemoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding08-member-eureka/src/main/java/com/ccctop/cloud/CrowdEurekaMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/mapper/MemberPOMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/handler/MemberProviderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis/mapper/MemberPOMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/handler/ProjectConsumerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding14-member-order-consumer/src/main/java/com/ccctop/crowd/handler/OrderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding05commonutils/src/main/java/com/ccctop/crowd/util/CrowdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/config/CrowdWebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/config/ShortMessageProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/handler/MemberHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-center.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="86" column="44" selection-start-line="86" selection-start-column="44" selection-end-line="86" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding08-member-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/src/main/java/com/ccctop/crowd/entity/vo/MemberLoginVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/resources/mybatis-generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/src/main/java/com/ccctop/crowd/entity/po/TagPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/src/main/java/com/ccctop/crowd/entity/po/MemberConfirmInfoPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/src/main/java/com/ccctop/crowd/entity/po/MemberLaunchInfoPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/src/main/java/com/ccctop/crowd/entity/po/MemberPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="84" column="36" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding09-member-entity/src/main/java/com/ccctop/crowd/entity/vo/ProjectVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/service/api/ProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding10-member-mysql-provider/src/main/java/com/ccctop/cloud/handler/ProjectProviderHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/src/main/java/com/ccctop/cloud/filter/CrowdAccessFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="64" column="17" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/src/main/java/com/ccctop/cloud/CrowdZuulMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding14-member-order-consumer/src/main/java/com/ccctop/crowd/CrowdOrderMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-reg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/portal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="205" column="65" selection-start-line="205" selection-start-column="65" selection-end-line="205" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/templates/project-agree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="346" column="66" lean-forward="true" selection-start-line="346" selection-start-column="66" selection-end-line="346" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#21113#21117#0" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/config/OSSProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/config/CrowdWebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/java/com/ccctop/crowd/CrowdAuthMainType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding12-member-authenticationserver-consumer/src/main/resources/templates/member-crowd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding16-member-zuulserver/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../atcrowdfunding07memberparent/atcrowdfunding13-member-projectServer-consumer/src/main/java/com/ccctop/crowd/CrowdProjectMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>atcrowdfunding02-admin-webui:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atcrowdfunding14-member-order-consumer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.40161103" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

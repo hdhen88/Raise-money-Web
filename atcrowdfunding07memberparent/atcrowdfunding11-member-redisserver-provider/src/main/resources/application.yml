@@ -1,0 +1,13 @@
+server:
+  port: 3000
+spring:
+  application:
+    name: ccctop-crowd-redis
+  redis:
+    host: 192.168.200.128
+    password:
+    timeout: 20000
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
